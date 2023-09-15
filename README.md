@@ -2,6 +2,7 @@
 
 This is a simple website created for the purpose of testing and demonstrating the "Expanding-cards" effect. The website showcases a collection of cards that expand when clicked, providing a visually engaging and interactive user experience. This project was built using HTML, CSS, and minimal JavaScript.
 
+![](https://github.com/kinishii1/Expanding-cards/blob/main/expanding-cards.gif)
 
 ## Description
 
