@@ -10,5 +10,5 @@ The Expanding Cards Test Website is a static web page designed to explore and sh
 
 ## Demo
 
-You can see a live demo of this website in action [here](#insert-your-demo-url).
+You can see a live demo of this website in action [here](https://kinishii1.github.io/Expanding-cards/).
 
